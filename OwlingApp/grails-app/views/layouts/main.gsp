@@ -45,7 +45,7 @@
 					<li><a href="/pcsoftapp/complaint">Send Complaints</a></li>
                 </ul>
 				</li>
-				<li><a href="/pcsoftapp/complaint" title=""><img src="${resource(dir: 'images', file: 'sexy.png')}" alt="Distributor" width="37" height="37" id="contact" /> Distributor </a>
+				<li><a href="/pcsoftapp/response" title=""><img src="${resource(dir: 'images', file: 'sexy.png')}" alt="Distributor" width="37" height="37" id="contact" /> Distributor </a>
 				<ul>
 					<li><a href="/pcsoftapp/response">Send Schedule</a></li>
 					<li><a href="/pcsoftapp/feedback">View Feedbacks</a></li>
