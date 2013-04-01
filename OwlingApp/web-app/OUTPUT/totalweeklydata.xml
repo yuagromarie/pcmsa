@@ -1,0 +1,98 @@
+<chart caption='Kilowatt-hour' subCaption='(Weekly)' numdivlines='9' lineThickness='2' showValues='0' numVDivLines='22' formatNumberScale='1' labelDisplay='ROTATE' slantLabels='1' anchorRadius='2' anchorBgAlpha='50' showAlternateVGridColor='1' anchorAlpha='100' animation='1' limitsDecimalPrecision='0' divLineDecimalPrecision='1'>
+  <categories>
+    <category label='12 : 00' />
+    <category label='01 : 00' />
+    <category label='02 : 00' />
+    <category label='03 : 00' />
+    <category label='04 : 00' />
+    <category label='05 : 00' />
+    <category label='06 : 00' />
+    <category label='07 : 00' />
+    <category label='08 : 00' />
+    <category label='09 : 00' />
+    <category label='10 : 00' />
+    <category label='11 : 00' />
+    <category label='12 : 00' />
+    <category label='01 : 00' />
+    <category label='02 : 00' />
+    <category label='02 : 30' />
+    <category label='07 : 30' />
+    <category label='08 : 12' />
+    <category label='11 : 12' />
+    <category label='12 : 30' />
+    <category label='02 : 30' />
+    <category label='07 : 30' />
+    <category label='08 : 12' />
+    <category label='10 : 20' />
+    <category label='10 : 20' />
+    <category label='10 : 10' />
+    <category label='10 : 20' />
+    <category label='12 : 10' />
+    <category label='10 : 10' />
+    <category label='11 : 12' />
+    <category label='10 : 12' />
+    <category label='07 : 39' />
+    <category label='07 : 39' />
+    <category label='07 : 39' />
+    <category label='12 : 00' />
+    <category label='12 : 12' />
+    <category label='07 : 23' />
+    <category label='06 : 12' />
+    <category label='02 : 59' />
+    <category label='10 : 10' />
+  </categories>
+  <dataset seriesName='Sun' color='0080C0' anchorBorderColor='0080C0'>
+    <set value='2820' />
+    <set value='1770' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='1505' />
+    <set value='1635' />
+    <set value='3605' />
+  </dataset>
+  <dataset seriesName='Mon' color='008040' anchorBorderColor='008040'>
+    <set value='2310' />
+    <set value='2730' />
+    <set value='7830' />
+    <set value='2310' />
+  </dataset>
+  <dataset seriesName='Tue' color='808080' anchorBorderColor='808080'>
+    <set value='2445' />
+    <set value='2160' />
+  </dataset>
+  <dataset seriesName='Wed' color='800080' anchorBorderColor='800080'>
+    <set value='3010' />
+  </dataset>
+  <dataset seriesName='Thu' color='FF8040' anchorBorderColor='FF8040'>
+    <set value='2290' />
+    <set value='3010' />
+    <set value='2570' />
+  </dataset>
+  <dataset seriesName='Fri' color='FFFF00' anchorBorderColor='FFFF00'>
+    <set value='2730' />
+    <set value='2520' />
+    <set value='2620' />
+  </dataset>
+  <dataset seriesName='Sat' color='FF0080' anchorBorderColor='FF0080'>
+    <set value='3420' />
+    <set value='2750' />
+    <set value='2860' />
+    <set value='2860' />
+    <set value='2464' />
+    <set value='2420' />
+    <set value='2420' />
+    <set value='1840' />
+    <set value='1840' />
+    <set value='1840' />
+    <set value='3920' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='3420' />
+    <set value='3070' />
+  </dataset>
+</chart>

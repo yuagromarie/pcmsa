@@ -1,0 +1,8 @@
+<chart caption='History Consumption (Month)'
+   xAxisName='Week' yAxisName='Percentage' numberSuffix='%'> 
+    <set label='Week 1' value='25' /> 
+    <set label='Week 2' value='28' /> 
+    <set label='Week 3' value='12' /> 
+    <set label='Week 4' value='35' /> 
+</chart>
+

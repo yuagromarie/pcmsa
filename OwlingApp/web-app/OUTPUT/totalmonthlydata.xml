@@ -1,0 +1,7 @@
+<chart caption='History Consumption(Month)' xAxisName='Week' yAxisName='kilowatts'>
+  <set label='1' value='5250' />
+  <set label='2' value='2310' />
+  <set label='3' value='2730' />
+  <set label='4' value='2445' />
+  <set label='5' value='2290' />
+</chart>
